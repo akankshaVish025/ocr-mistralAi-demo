@@ -4,3 +4,6 @@ import path from "path";
 import * as XLSX from 'xlsx';
 import sharp from "sharp";
 
+export async function extractTextFromFile(file: Express.Multer.File) {
+    
+}
